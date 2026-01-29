@@ -118,8 +118,8 @@
 ## 更多问题？
 
 如果你的问题没有在这里找到答案：
-- [提交Issue](https://github.com/YOUR_USERNAME/US-Financial-Survival-Guide/issues)
-- [参与讨论](https://github.com/YOUR_USERNAME/US-Financial-Survival-Guide/discussions)
+- [提交Issue](https://github.com/ktwu01/US-Financial-Survival-Guide/issues)
+- [参与讨论](https://github.com/ktwu01/US-Financial-Survival-Guide/discussions)
 
 ---
 

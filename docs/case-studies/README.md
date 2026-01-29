@@ -29,7 +29,7 @@
 你的经验可能帮助其他人避免同样的困境。
 
 **如何分享**：
-1. [提交Issue](https://github.com/YOUR_USERNAME/US-Financial-Survival-Guide/issues)
+1. [提交Issue](https://github.com/ktwu01/US-Financial-Survival-Guide/issues)
 2. 选择"案例分享"模板
 3. 我们会帮你匿名化处理
 

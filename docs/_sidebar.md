@@ -22,7 +22,7 @@
 * 📝 参与贡献
 
   * [贡献指南](CONTRIBUTING.md)
-  * [社区讨论](https://github.com/YOUR_USERNAME/US-Financial-Survival-Guide/discussions)
+  * [社区讨论](https://github.com/ktwu01/US-Financial-Survival-Guide/discussions)
 
 * 📄 其他
 

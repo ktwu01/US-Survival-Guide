@@ -62,8 +62,8 @@
 一个曾经在斩杀线边缘挣扎，现在想帮助更多人的普通留学生。
 
 如果你想联系我：
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your-email@example.com
+- GitHub: [@ktwu01](https://github.com/ktwu01)
+- 通过 GitHub Issues 或 Discussions 联系
 
 ---
 

@@ -47,8 +47,8 @@
 完整内容即将上线，敬请期待！
 
 如果你有相关经验愿意分享，欢迎：
-- [提交Issue](https://github.com/YOUR_USERNAME/US-Financial-Survival-Guide/issues)
-- [参与讨论](https://github.com/YOUR_USERNAME/US-Financial-Survival-Guide/discussions)
+- [提交Issue](https://github.com/ktwu01/US-Financial-Survival-Guide/issues)
+- [参与讨论](https://github.com/ktwu01/US-Financial-Survival-Guide/discussions)
 
 ---
 
