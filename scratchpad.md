@@ -60,12 +60,14 @@
    - **Status**: Complete (1,313 lines, commit e90a2c0)
    - **File**: `docs/emergency-finance/poverty-mechanics/poverty-tax.md`
 
-4. **"美国的两个现实：社会安全网的真相"** (America's Two Realities: Social Safety Net Truth)
+4. **"美国的两个现实：社会安全网的真相"** (America's Two Realities: Social Safety Net Truth) ✅ COMPLETED
    - **Keywords**: social services reality, what works what doesnt, homeless services, charity effectiveness, F-1 student eligibility
    - **Content**: Which services actually help, which are performative, which F-1 students can access
    - **Target**: Realistic expectations about "help available"
    - **Folder**: `docs/emergency-finance/resources/`
    - **Unique Angle**: F-1 students have NO access to federal benefits, very limited local help
+   - **Status**: Complete (968 lines, commit 517b827)
+   - **File**: `docs/emergency-finance/resources/social-safety-net-reality.md`
 
 5. **"住房优先原则：为什么其他一切都不重要"** (Housing First: Why Nothing Else Matters Without Shelter) ✅ COMPLETED
    - **Keywords**: housing first principle, rent priority, financial triage, emergency housing fund
