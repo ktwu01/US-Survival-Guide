@@ -51,12 +51,14 @@
    - **Status**: Complete (773 lines, commit 6791f43)
    - **File**: `docs/housing/crisis/losing-housing-cascade.md`
 
-3. **"贫困陷阱：那些专门针对穷人的隐形税"** (The Poverty Tax: Hidden Costs of Being Poor)
+3. **"贫困陷阱：那些专门针对穷人的隐形税"** (The Poverty Tax: Hidden Costs of Being Poor) ✅ COMPLETED
    - **Keywords**: poverty penalty, poor tax, overdraft fees, check cashing fees, cant afford bulk buying
    - **Content**: Bank fees, payday loans, late fees, no bulk purchase discounts, transportation costs
    - **Target**: Financial literacy about systemic costs
    - **Folder**: `docs/emergency-finance/poverty-mechanics/`
    - **Unique Angle**: F-1 students without credit history face worst terms
+   - **Status**: Complete (1,313 lines, commit e90a2c0)
+   - **File**: `docs/emergency-finance/poverty-mechanics/poverty-tax.md`
 
 4. **"美国的两个现实：社会安全网的真相"** (America's Two Realities: Social Safety Net Truth)
    - **Keywords**: social services reality, what works what doesnt, homeless services, charity effectiveness, F-1 student eligibility
