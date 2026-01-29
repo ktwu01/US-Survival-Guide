@@ -30,31 +30,31 @@
 
 ## 主要内容
 
-### [医疗账单谈判与争议 (Medical Bills)](#/medical-bills/)
+### [医疗账单谈判与争议 (Medical Bills)](medical-bills/)
 - 如何与医院谈判降低账单（30-50%减免是常态）
 - 慈善医疗减免（Charity Care）申请流程
 - 医疗账单错误识别与争议模板
 - 关键资源：Dollar For, CFPB
 
-### [信用卡维权 (Credit Card Disputes)](#/credit-cards/)
+### [信用卡维权 (Credit Card Disputes)](credit-cards/)
 - 信用卡争议（Dispute）的合法使用
 - Chargeback 流程与最佳实践
 - 如何保护信用记录
 - 常见陷阱与应对策略
 
-### [紧急财务应对 (Emergency Finance)](#/emergency-finance/)
+### [紧急财务应对 (Emergency Finance)](emergency-finance/)
 - 财务危机决策树
 - 应急资金规划
 - 法律援助与财务援助资源清单
 - 预算模板与计算器
 
-### [维权战术 (Rights Protection)](#/rights-protection/)
+### [维权战术 (Rights Protection)](rights-protection/)
 - 租房纠纷与驱逐防御
 - 雇佣纠纷与工资追讨
 - 消费者权益保护
 - 何时协商、何时升级、何时寻求法律援助
 
-### [真实案例 (Case Studies)](#/case-studies/)
+### [真实案例 (Case Studies)](case-studies/)
 - 匿名化的真实生存案例
 - 成功维权经验分享
 - 失败教训总结
@@ -65,15 +65,15 @@
 
 ### 预防性阅读
 如果你目前财务状况稳定，建议：
-1. 阅读 [紧急财务应对](#/emergency-finance/) 了解风险预警信号
-2. 保存 [模板信件库](#/templates/) 中的模板信件以备不时之需
-3. 收藏 [资源清单](#/resources/) 中的关键联系方式
+1. 阅读 [紧急财务应对](emergency-finance/) 了解风险预警信号
+2. 保存 [模板信件库](templates/) 中的模板信件以备不时之需
+3. 收藏 [资源清单](resources/) 中的关键联系方式
 
 ### 应急响应
 如果你正面临财务危机，立即查看：
 1. **guides/** 中的应急处理指南
-2. 浏览[核心指南](#/)中对应类型的详细文档
-3. [模板信件库](#/templates/) 中的现成模板，改好就能用
+2. 浏览[核心指南](/)中对应类型的详细文档
+3. [模板信件库](templates/) 中的现成模板，改好就能用
 
 ---
 
