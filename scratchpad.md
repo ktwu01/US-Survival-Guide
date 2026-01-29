@@ -65,12 +65,14 @@
    - **Folder**: `docs/emergency-finance/resources/`
    - **Unique Angle**: F-1 students have NO access to federal benefits, very limited local help
 
-5. **"住房优先原则：为什么其他一切都不重要"** (Housing First: Why Nothing Else Matters Without Shelter)
+5. **"住房优先原则：为什么其他一切都不重要"** (Housing First: Why Nothing Else Matters Without Shelter) ✅ COMPLETED
    - **Keywords**: housing first principle, rent priority, financial triage, emergency housing fund
    - **Content**: Scientific evidence on why housing must be protected above all else
    - **Target**: Debt prioritization framework
    - **Folder**: `docs/housing/philosophy/`
    - **Unique Angle**: For F-1, housing also = legal address for SEVIS = maintaining status
+   - **Status**: Complete (938 lines, commit 4100ddd)
+   - **File**: `docs/housing/philosophy/housing-first-principle.md`
 
 ### Medium Priority Articles:
 
