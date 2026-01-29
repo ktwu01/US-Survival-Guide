@@ -27,6 +27,80 @@
 
 ---
 
+## 💡 New Article Ideas (Inspired by "Survive America" Essay - 2025-01-29)
+
+### Theme: Prevention & Early Warning Systems
+
+**High Priority Articles:**
+
+1. **"斩杀线预警系统：10个你正在坠落的信号"** (Early Warning: 10 Signs You're Approaching the Cutoff)
+   - **Keywords**: financial crisis warning signs, emergency fund depletion, F-1 student budget red flags, poverty spiral prevention
+   - **Content**: Actionable early warning indicators before crisis becomes catastrophic
+   - **Target**: Prevention-focused, for those still stable but at risk
+   - **Folder**: `docs/emergency-finance/prevention/`
+   - **Unique Angle**: Specific to F-1 students (visa status, enrollment, limited income sources)
+
+2. **"失去住房的连锁反应"** (The Cascade: What Happens When You Lose Housing)
+   - **Keywords**: eviction consequences, housing loss impact, homelessness cascade, address loss problems
+   - **Content**: How housing loss triggers job loss, bank account closure, mail access, ID renewal issues
+   - **Target**: Illustrate why housing is THE priority (not negotiable)
+   - **Folder**: `docs/housing/crisis/`
+   - **Unique Angle**: For F-1 students, losing address = SEVIS reporting problem = visa risk
+
+3. **"贫困陷阱：那些专门针对穷人的隐形税"** (The Poverty Tax: Hidden Costs of Being Poor)
+   - **Keywords**: poverty penalty, poor tax, overdraft fees, check cashing fees, cant afford bulk buying
+   - **Content**: Bank fees, payday loans, late fees, no bulk purchase discounts, transportation costs
+   - **Target**: Financial literacy about systemic costs
+   - **Folder**: `docs/emergency-finance/poverty-mechanics/`
+   - **Unique Angle**: F-1 students without credit history face worst terms
+
+4. **"美国的两个现实：社会安全网的真相"** (America's Two Realities: Social Safety Net Truth)
+   - **Keywords**: social services reality, what works what doesnt, homeless services, charity effectiveness, F-1 student eligibility
+   - **Content**: Which services actually help, which are performative, which F-1 students can access
+   - **Target**: Realistic expectations about "help available"
+   - **Folder**: `docs/emergency-finance/resources/`
+   - **Unique Angle**: F-1 students have NO access to federal benefits, very limited local help
+
+5. **"住房优先原则：为什么其他一切都不重要"** (Housing First: Why Nothing Else Matters Without Shelter)
+   - **Keywords**: housing first principle, rent priority, financial triage, emergency housing fund
+   - **Content**: Scientific evidence on why housing must be protected above all else
+   - **Target**: Debt prioritization framework
+   - **Folder**: `docs/housing/philosophy/`
+   - **Unique Angle**: For F-1, housing also = legal address for SEVIS = maintaining status
+
+### Medium Priority Articles:
+
+6. **"把贫困犯罪化的法律"** (Laws That Criminalize Poverty)
+   - **Keywords**: vagrancy laws, loitering laws, sleeping in car illegal, homeless criminalization
+   - **Content**: Anti-homeless ordinances, where you can't sleep, sit, exist without money
+   - **Target**: Legal awareness
+   - **Folder**: `docs/rights-protection/homeless-laws/`
+
+7. **"财务危机中的心理健康"** (Mental Health in Financial Crisis)
+   - **Keywords**: financial stress mental health, crisis psychology, 988 hotline, shame poverty, student counseling
+   - **Content**: Recognizing crisis psychology, getting help, managing shame/isolation
+   - **Target**: Psychological survival
+   - **Folder**: `docs/personal-safety/mental-health/`
+   - **Unique Angle**: Cultural shame in Chinese community about financial failure
+
+8. **"紧急庇护所使用指南"** (Emergency Shelter Navigation Guide)
+   - **Keywords**: homeless shelters, emergency housing, temporary shelter, shelter safety, F-1 students homeless
+   - **Content**: How to access, what to expect, safety tips, alternatives
+   - **Target**: Absolute last resort practical guide
+   - **Folder**: `docs/housing/emergency-shelter/`
+   - **Unique Angle**: F-1 students often ineligible for many shelters
+
+### Implementation Priority:
+1. Start with #1, #2, #5 (prevention focus, aligns with core mission)
+2. Then #3, #4 (systemic understanding)
+3. Finally #6, #7, #8 (deeper crisis content)
+
+**Essay Source**: "Survive America" essay about homelessness prevention vs. disaster prepping
+**Key Insight**: Homelessness is the real disaster to prep for in America, not zombies or nuclear war
+**Relevance**: F-1 students are especially vulnerable (no safety net, visa tied to status, cultural isolation)
+
+---
+
 ## Background and Motivation
 
 **Project Goal**: Create a comprehensive GitHub repository serving as a financial survival guide for Chinese international students in the US, covering critical topics that mainstream LLMs avoid but are essential for real-world survival.
